@@ -21,6 +21,41 @@ for your pages, use the following method:
 https://2021.igem.org/File:T--NTNU-Trondheim--Anine.jpg (original link)
 https://2021.igem.org/wiki/images/9/91/T--NTNU-Trondheim--Anine.jpg (non-formatted file)
 
+https://2021.igem.org/File:T--NTNU-Trondheim--adrian.jpg
+https://2021.igem.org/wiki/images/6/6d/T--NTNU-Trondheim--adrian.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--andrea.jpg
+https://2021.igem.org/wiki/images/1/1c/T--NTNU-Trondheim--andrea.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--anine.jpg
+https://2021.igem.org/wiki/images/6/61/T--NTNU-Trondheim--anine.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--eline.jpg
+https://2021.igem.org/wiki/images/0/0f/T--NTNU-Trondheim--eline.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--elise.jpg
+https://2021.igem.org/wiki/images/0/07/T--NTNU-Trondheim--elise.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--fanny.jpg
+https://2021.igem.org/wiki/images/f/fe/T--NTNU-Trondheim--fanny.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--kristine.jpg
+https://2021.igem.org/wiki/images/c/c3/T--NTNU-Trondheim--kristine.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--leik.jpg
+https://2021.igem.org/wiki/images/d/d0/T--NTNU-Trondheim--leik.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--martin.jpg
+https://2021.igem.org/wiki/images/d/d4/T--NTNU-Trondheim--martin.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--tina.jpg
+https://2021.igem.org/wiki/images/8/83/T--NTNU-Trondheim--tina.jpg
+
+https://2021.igem.org/File:T--NTNU-Trondheim--victoria.jpg
+https://2021.igem.org/wiki/images/e/eb/T--NTNU-Trondheim--victoria.jpg
+
+
+
 
 ########## HEADER PHOTOS ##########
 
@@ -29,7 +64,7 @@ https://2021.igem.org/File:T--NTNU-Trondheim--Team.jpg (original link)
 https://2021.igem.org/wiki/images/1/1e/T--NTNU-Trondheim--Team.jpg (non-formatted file)
 
 
-########## ADVISORS ############
+########## ADVISORS ##############
 
 https://2021.igem.org/File:T--NTNU-Trondheim--Gunvor.png (original link)
 https://2021.igem.org/wiki/images/b/b3/T--NTNU-Trondheim--Gunvor.png (non-formatted file)
@@ -42,6 +77,7 @@ https://2021.igem.org/wiki/images/b/bb/T--NTNU-Trondheim--Lisa.png (non-formatte
 
 https://2021.igem.org/File:T--NTNU-Trondheim--Rahmi.png (original link)
 https://2021.igem.org/wiki/images/6/65/T--NTNU-Trondheim--Rahmi.png (non-formatted file)
+
 
 
 ####### LOGO ++ #######
